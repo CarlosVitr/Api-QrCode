@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center"  width="320" height="320" src="https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml/">
+<img align="center"  width="320" height="320" src="https://api-qrcode.vercel.app/api?url=https://github.com/CarlosVitr/Api-QrCode">
 <h1 align="center"> Api Qr Code </h1>
 
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
