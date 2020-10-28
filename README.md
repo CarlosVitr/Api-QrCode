@@ -12,18 +12,26 @@
 ## Do you want to use the Qr code Api?  
 ### Clone the Repository:
 
-``oi``
+``https://github.com/CarlosVitr/Api-QrCode.git``
 
 ---
  
 ## Want to find out how to generate qr code? 
 ### Apply this URL:
  
- ``url da api``
+ ``https://api-qrcode.vercel.app/api?url=link``
  
+<h4>link => website link, repository or other links you want.</h4>
+
 ---
  
  <samp>
- badge de open source, use quando quiser fork e Estrele o projeto
+  
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/carlosvitr/api-qrcode) 
+, use quando quiser fork 
+[![GitHub forks](https://img.shields.io/github/forks/Carlosvitr/api-qrcode.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/carlosvitr/api-qrcode)
+
+e Estrele o projeto 
+[![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/api-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Carlosvitr/api-qrcode)
  </samp>
 
