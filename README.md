@@ -12,7 +12,7 @@
 ## Do you want to use the Qr code Api?  
 ### Clone the Repository:
 
-``https://github.com/CarlosVitr/Api-QrCode.git``
+``git clone https://github.com/CarlosVitr/Api-QrCode.git``
 
 ---
  
