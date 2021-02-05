@@ -33,7 +33,8 @@
 
 e Estrele o projeto 
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/api-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Carlosvitr/api-qrcode)
- </samp>
+
+</samp>
  
 # License
  
