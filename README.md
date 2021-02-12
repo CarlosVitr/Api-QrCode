@@ -40,4 +40,4 @@ e Estrele o projeto
  
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2020 - Api-qrcode. 
+Copyright :copyright: 2018-2021,Carlos Vítor. 
