@@ -21,7 +21,7 @@
  
  ``https://api-qrcode.vercel.app/api?url=link``
  
-<h4> <strong>Link</strong>: website link, repository or other links you want.</h4>
+<p><strong>Link</strong>: website link, repository or other links you want.</p>
 
 ---
  
