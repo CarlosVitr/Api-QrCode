@@ -21,7 +21,7 @@
  
  ``https://api-qrcode.vercel.app/api?url=link``
  
-<h4>link => website link, repository or other links you want.</h4>
+<h4> <strong>Link</strong>: website link, repository or other links you want.</h4>
 
 ---
  
@@ -35,6 +35,12 @@ e Estrele o projeto
 [![GitHub stars](https://img.shields.io/github/stars/CarlosVitr/api-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Carlosvitr/api-qrcode)
 
 </samp>
+
+---
+## Author
+
+| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub>@carlosvitr</sub>](https://github.com/carlosvitr) |
+| :---: |
  
 # License
  
