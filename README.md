@@ -46,7 +46,7 @@
 ---
 ## Author
 
-| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> @CarlosVitr </sub>](https://github.com/carlosvitr) |
+| [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
 | :---: |
  
 # License
