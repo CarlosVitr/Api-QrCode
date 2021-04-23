@@ -18,24 +18,14 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/api-qrcode/main?color=9cf&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/Api-qrcode?style=for-the-badge)
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlosvitr/Api-Qrcode">
 
 </p>
 
-<p align="center">
-  <a href="#-about-the-project"> About the project </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies"> Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-use"> Use </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-creating-qr-code"> Creating Qrcode</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contributing"> Contributing </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-license"> License </a>
-</p>
-
-## 👨🏻‍💻 About the project
+## 💾 About the project
 
 An api Built in Next.js in order to create qr codes for websites from addresses with the https/http protocol. 
 
-## 🚀 Technologies
+## 💻 Technologies
 
 Technologies that I used to develop this Api:
 
@@ -49,14 +39,14 @@ Technologies that I used to develop this Api:
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
  
-## Use
+## 🤓Use
 
 Do you want to use the api in your projects?  Fork or clone the repository
 
 ```
 https://github.com/CarlosVitr/Api-QrCode.git
 ```
-## Creating Qr Code
+## 🛠Creating Qr Code
 
 Want to know how to create your qr code?  It's simple:
 - Enter the link: `https://api-qrcode.vercel.app/api?url=link`
@@ -67,13 +57,13 @@ Want to know how to create your qr code?  It's simple:
 https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml
 ```
 
-Output: 
+📤Output: 
 
 <img align="center"  width="70" height="70" src="https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml">
 
 > PS:when using the link place it in accordance with the protocol of your site it can be https or http, be careful otherwise qr code can go to another address.
 
-## Contributing 
+## 📉Contributing 
 
 Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>
 
@@ -92,7 +82,7 @@ $ git push origin my-feature
 ```
 After your pull request is merged, you can delete your branch
 
-## Author
+## 📌Author
 
 | [<img src="https://avatars.githubusercontent.com/u/43506171?s=460&v=4" width="155"><br><sub> Carlos Vítor </sub>](https://github.com/carlosvitr) |
 | :---: |
