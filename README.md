@@ -18,9 +18,37 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/api-qrcode/main?color=9cf&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/Api-qrcode?style=for-the-badge)
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlosvitr/Api-Qrcode">
 
 </p>
 
+<p align="center">
+  <a href="#-about-the-project"> About the project </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies"> Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-use"> Use </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-creating-qr-code"> Creating Qrcode</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing"> Contributing </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-license"> License </a>
+</p>
+
+## 👨🏻‍💻 About the project
+
+An api Built in Next.js in order to create qr codes for websites from addresses with the https/http protocol. 
+
+## 🚀 Technologies
+
+Technologies that I used to develop this Api:
+
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nestas.org)
+
+ More in the future will be used:
+
+- [Styled Components](https://styled-components.com/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
+ 
 ## Use
 
 Do you want to use the api in your projects?  Fork or clone the repository
@@ -48,6 +76,21 @@ Output:
 ## Contributing 
 
 Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>
+
+```bash
+# Clone your fork
+$ git clone your-fork-url && cd NOME_DO_REPO
+
+# Create a branch with your feature
+$ git checkout -b my-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: My new feature'
+
+# Send the code to your remote branch
+$ git push origin my-feature
+```
+After your pull request is merged, you can delete your branch
 
 ## Author
 
