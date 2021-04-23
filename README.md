@@ -11,13 +11,13 @@
 
 <h1 align="center"> Api Qr Code </h1>
 
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 ![GitHub forks](https://img.shields.io/github/forks/carlosvitr/api-qrcode?color=red&style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosvitr/api-qrcode?color=red&style=for-the-badge)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/carlosvitr/api-qrcode?color=9cf&style=for-the-badge)
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fapi-qrcode.vercel.app)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/api-qrcode/main?color=9cf&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/Api-qrcode?style=for-the-badge)
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 </p>
 
