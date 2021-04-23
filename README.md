@@ -65,22 +65,7 @@ https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml
 
 ## 📉Contributing 
 
-Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>
-
-```bash
-# Clone your fork
-$ git clone your-fork-url && cd Api-Qrcode
-
-# Create a branch with your feature
-$ git checkout -b my-feature
-
-# Make the commit with your changes
-$ git commit -m 'feat: My new feature'
-
-# Send the code to your remote branch
-$ git push origin my-feature
-```
-After your pull request is merged, you can delete your branch
+Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>. After your pull request is merged, you can delete your branch
 
 ## 📌Author
 
