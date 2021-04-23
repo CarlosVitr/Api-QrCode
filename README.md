@@ -47,7 +47,7 @@ Output:
 
 ## Contributing 
 
-wants to contribute give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>
+Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/pulls">Pull Request</a>
 
 ## Author
 
