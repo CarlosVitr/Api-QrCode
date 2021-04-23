@@ -79,7 +79,7 @@ Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/p
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd NOME_DO_REPO
+$ git clone your-fork-url && cd Api-Qrcode
 
 # Create a branch with your feature
 $ git checkout -b my-feature
