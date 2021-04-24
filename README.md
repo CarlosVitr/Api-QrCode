@@ -75,4 +75,4 @@ Wants to contribute ? Give a <a href="https://github.com/CarlosVitr/Api-QrCode/p
 # License
 
 Api-Qrcode© <a href="http://carlosvitor.ml">Carlos Vítor</a> 2018-2021 Launched under the [License MIT](https://github.com/CarlosVitr/Api-Qrcode/blob/main/LICENSE). Authored and maintained by Carlos Vítor with the help of <a href="https://github.com/carlosvitr/api-qrcode/graphs/contributors">collaborators</a>.
-> <a href="http://carlosvitor.ml">carlosvitor.ml</a> • Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> • Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>.
+> Github:<a href="https://github.com/carlosvitr">@CarlosVitr</a> • Twitter:<a href="https://twitter.com/ClsVitor">@ClsVitor</a>• LinkedIn:<a href="https://www.linkedin.com/in/CarlosVitor">Carlos Vítor</a>.
