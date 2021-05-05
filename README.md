@@ -18,6 +18,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/api-qrcode/main?color=9cf&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/Api-qrcode?style=for-the-badge)
 <a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+[![Build Status](https://www.travis-ci.com/CarlosVitr/Api-QrCode.svg?branch=main)](https://www.travis-ci.com/CarlosVitr/Api-QrCode)
 
 </p>
 
