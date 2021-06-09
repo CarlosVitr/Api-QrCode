@@ -17,7 +17,7 @@
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fapi-qrcode.vercel.app)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/carlosvitr/api-qrcode/main?color=9cf&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/carlosvitr/Api-qrcode?style=for-the-badge)
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="http://carlosvitor.ml/"><img width="130" height="30" src="https://github.com/CarlosVitr/carlosvitr/blob/M4st3r/Imagens/button_carlos.png"></a>
 ![Travis (.com) branch](https://img.shields.io/travis/com/carlosvitr/api-qrcode/main?style=for-the-badge)
 </p>
 
