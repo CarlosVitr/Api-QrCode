@@ -51,7 +51,7 @@ https://github.com/CarlosVitr/Api-QrCode.git
 Want to know how to create your qr code?  It's simple:
 - Enter the link: `https://api-qrcode.vercel.app/api?url=link`
 - After accessing it you will see that there is nothing much, but what you have to do is change the <strong>link</strong> by the address you want the qr code.
-
+- You can create qrcodes with phone numbers. 
 ### Exemple:
 ```
 https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml
