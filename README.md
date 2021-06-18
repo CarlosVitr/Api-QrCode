@@ -52,6 +52,11 @@ Want to know how to create your qr code?  It's simple:
 - Enter the link: `https://api-qrcode.vercel.app/api?url=link`
 - After accessing it you will see that there is nothing much, but what you have to do is change the <strong>link</strong> by the address you want the qr code.
 - You can create qrcodes with phone numbers. 
+
+---
+>#### Notice!: Anyone who is Brazilian like me can use this qrcode for **PIX**. ~>  :us:<br>
+>#### Aviso!: Quem for Brasileiro como eu pode usar esse qrcode para **PIX** ~>  :brazil:
+---
 ### Exemple:
 ```
 https://api-qrcode.vercel.app/api?url=http://carlosvitor.ml
